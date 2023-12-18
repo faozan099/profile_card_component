@@ -1,10 +1,16 @@
 import "./App.css";
+import Card from "./components/card/Card";
+import bgTop from "./images/bg-pattern-top.svg";
+import bgBottom from "./images/bg-pattern-bottom.svg";
 
 function App() {
-
   return (
-  <div>Victor Crest 26 London 80K Followers 803K Likes 1.4K Photos</div>
-  )
+    <>
+      <article>
+        <Card />
+      </article>
+    </>
+  );
 }
 
 export default App;
