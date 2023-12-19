@@ -28,7 +28,7 @@ function Card({
           <h2>
             {name} <span className="age">{age}</span>
           </h2>
-          <p>London</p>
+          <p>{residence}</p>
         </div>
         <div className="br"></div>
         <div className="information">

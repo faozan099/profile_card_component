@@ -73,9 +73,11 @@ h2 {
   align-items: center;
   text-align: center;
   background-color: white;
+
 }
 
 .information p {
   color: var(--Neutral-Dark-Grey);
   font-weight: 400;
+  font-size: 14px;
 }
