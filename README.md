@@ -6,7 +6,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -20,12 +19,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size
-- See hover and focus states for interactive elements
-
-### Screenshot
-
-- Mobile: ![Mobile](/src/design/mobile-design.jpg)
-- Dekstop: ![Dekstop](/src/design//desktop-preview.jpg)
 
 ### Links
 
