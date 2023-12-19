@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Preview](https://card-component-parfume.netlify.app/)
+- Live Site URL: [Preview](https://super-speculoos-77dfac.netlify.app/)
 
 ## My process
 
