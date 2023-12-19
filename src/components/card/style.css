@@ -1,9 +1,9 @@
 @import "../../index.css";
 
 .container {
-  width: 100%;
+  width: var(--Mobile);
   margin: auto;
-  padding: 20% 0;
+  padding: 5% 4px;
 }
 .card{
   width: 100%;

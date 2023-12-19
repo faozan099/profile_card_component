@@ -50,7 +50,7 @@ function Card({
   );
 }
 
-Card.PropTypes = {
+Card.propTypes = {
   name: PropTypes.string.isRequired,
   age: PropTypes.number.isRequired,
   residence: PropTypes.string.isRequired,

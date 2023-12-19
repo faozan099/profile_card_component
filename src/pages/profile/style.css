@@ -1,0 +1,6 @@
+@import '../../index.css';
+
+article {
+    max-width: var(--Mobile);
+    margin: auto;
+}
