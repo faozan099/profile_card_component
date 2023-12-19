@@ -1,0 +1,81 @@
+@import "../../index.css";
+
+.container {
+  width: var(--Mobile);
+  margin: auto;
+  padding: 5% 4px;
+}
+.card{
+  width: 100%;
+}
+
+.card img {
+  object-fit: cover;
+  width: 100%;
+  vertical-align: top;
+  border-radius: 20px 20px 0 0;
+}
+
+.containerFoto {
+  width: 100%;
+  position: relative;
+  text-align: center;
+}
+
+.foto {
+  width: 120px;
+  margin: auto;
+  position: absolute;
+  top: 50%;
+  bottom: 50%;
+  transform: translate(-50%, 0);
+  border-radius: 50%;
+  border: 8px solid white;
+}
+
+.profile {
+  padding-top: 80px;
+  text-align: center;
+  width: 100%;
+  height: auto;
+  background-color: white;
+}
+
+h2 {
+  color: var(--Primary-Very-Dark-Desaturated-Blue);
+}
+
+.age {
+  color: var(--Neutral-Dark-Grey);
+  font-weight: 400;
+  padding-left: 4px;
+}
+
+.profile p {
+  color: var(--Neutral-Dark-Grey);
+  padding-bottom: 40px;
+  padding-top: 10px;
+  font-weight: 400;
+}
+
+.br {
+  width: 100%;
+  background-color: var(--Neutral-Dark-Grey);
+  height: 1px;
+}
+
+.information {
+  padding: 40px 0;
+  display: flex;
+  border-radius: 0 0 20px 20px;
+  width: 100%;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  background-color: white;
+}
+
+.information p {
+  color: var(--Neutral-Dark-Grey);
+  font-weight: 400;
+}
